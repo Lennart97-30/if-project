@@ -1,0 +1,1457 @@
+@media (min-width: 4369px) and (max-width: 4500px) {
+    .header {
+        height: 250px;
+    }
+    .logo img {
+        height: 230px;
+        width: 230px;
+    }
+    iframe#map-h {
+        height: 1250px;
+    }
+    input#nameContact {
+        font-size: 60px;
+    }
+    input#date {
+        font-size: 60px;
+    }
+    input#phone {
+        font-size: 60px;
+    }
+    input#email {
+        font-size: 60px;
+    }
+    input#pais {
+        font-size: 60px;
+    }
+    input#ciudad {
+        font-size: 60px;
+    }
+    input#asunto {
+        font-size: 60px;
+    }
+    textarea#mensaje {
+        font-size: 60px;
+    }
+    button#submitBtn {
+        font-size: 60px;
+    }
+    .g-recaptcha {
+        transform: scale(3);
+        transform-origin: 0 0;
+        width: 100px;
+    }
+    .captcha-space {
+        height: 170px;
+    }
+    label {
+        font-size: 60px;
+    }
+    .social-circle li a {
+        width: 140px;
+        height: 140px;
+        font-size: 60px;
+    }
+    .social-circle li i {
+        line-height: 140px;
+    }
+    .heading b {
+        font-size: 140px;
+    }
+    .section-home p {
+        font-size: 55px;
+    }
+    .nav-menu-sections {
+        font-size: 50px;
+        margin: 60px 30px;
+    }
+    .section-about p,
+    h5,
+    h6,
+    h3 {
+        font-size: 82px;
+    }
+    .social-media ul {
+        font-size: 75px;
+    }
+    .section-teachers p {
+        font-size: 54px;
+    }
+    .space-item {
+        height: 1050px;
+    }
+    #photos {
+        -moz-column-count: 5;
+        -webkit-column-count: 5;
+        column-count: 5;
+    }
+    .p-flex {
+        height: 435px;
+    }
+    .video-plays .video-list {
+        height: 780px;
+    }
+    #members ol {
+        font-size: 55px;
+    }
+    .section-about {
+        padding-bottom: 250px;
+    }
+    .section-lessons h4 b {
+        font-size: 70px;
+    }
+    .section-lessons p {
+        font-size: 56px;
+    }
+    #members h4 {
+        font-size: 70px;
+    }
+    #v-pc {
+        padding-top: 130px;
+    }
+}
+
+@media (min-width: 4201px) and (max-width: 4368px) {
+    #v-pc {
+        padding-top: 95px;
+    }
+    .header {
+        height: 200px;
+    }
+    .logo img {
+        height: 185px;
+        width: 185px;
+    }
+    iframe#map-h {
+        height: 1000px;
+    }
+    input#nameContact {
+        font-size: 60px;
+    }
+    input#date {
+        font-size: 60px;
+    }
+    input#phone {
+        font-size: 60px;
+    }
+    input#email {
+        font-size: 60px;
+    }
+    input#pais {
+        font-size: 60px;
+    }
+    input#ciudad {
+        font-size: 60px;
+    }
+    input#asunto {
+        font-size: 60px;
+    }
+    textarea#mensaje {
+        font-size: 60px;
+    }
+    button#submitBtn {
+        font-size: 60px;
+    }
+    .g-recaptcha {
+        transform: scale(3);
+        transform-origin: 0 0;
+        width: 100px;
+    }
+    .captcha-space {
+        height: 170px;
+    }
+    label {
+        font-size: 60px;
+    }
+    .social-circle li a {
+        width: 140px;
+        height: 140px;
+        font-size: 60px;
+    }
+    .social-circle li i {
+        line-height: 140px;
+    }
+    .heading b {
+        font-size: 140px;
+    }
+    .section-home p {
+        font-size: 50px;
+    }
+    .nav-menu-sections {
+        font-size: 48px;
+        margin: 42px 20px;
+    }
+    .section-about p,
+    h5,
+    h6,
+    h3 {
+        font-size: 78px;
+    }
+    .social-media ul {
+        font-size: 75px;
+    }
+    .section-teachers p {
+        font-size: 48px;
+    }
+    .space-item {
+        height: 995px;
+    }
+    #photos {
+        -moz-column-count: 5;
+        -webkit-column-count: 5;
+        column-count: 5;
+    }
+    .p-flex {
+        height: 390px;
+    }
+    .video-plays .video-list {
+        height: 780px;
+    }
+    #members ol {
+        font-size: 40px;
+    }
+    .section-about {
+        padding-bottom: 250px;
+    }
+    .section-lessons h4 b {
+        font-size: 70px;
+    }
+    .section-lessons p {
+        font-size: 56px;
+    }
+    #members h4 {
+        font-size: 70px;
+    }
+}
+
+@media (min-width: 3701px) and (max-width: 3999px) {
+    .social-circle li a {
+        width: 120px;
+        height: 120px;
+        font-size: 57px;
+    }
+    .social-circle li i {
+        line-height: 120px;
+    }
+    .heading b {
+        font-size: 120px;
+    }
+    .section-home p {
+        font-size: 50px;
+    }
+    .nav-menu-sections {
+        font-size: 40px;
+        margin: 20px 20px;
+    }
+    .section-about p,
+    h5,
+    h6,
+    h3 {
+        font-size: 68px;
+    }
+    .social-media ul {
+        font-size: 68px;
+    }
+    .section-teachers p {
+        font-size: 44px;
+    }
+    .space-item {
+        height: 995px;
+    }
+    #photos {
+        -moz-column-count: 5;
+        -webkit-column-count: 5;
+        column-count: 5;
+    }
+    .p-flex {
+        height: 390px;
+    }
+    .video-plays .video-list {
+        height: 780px;
+    }
+    #members ol {
+        font-size: 37px;
+    }
+    .section-about {
+        padding-bottom: 250px;
+    }
+    .section-lessons h4 b {
+        font-size: 60px;
+    }
+    .section-lessons p {
+        font-size: 50px;
+    }
+    #members h4 {
+        font-size: 60px;
+    }
+    .header {
+        height: 200px;
+    }
+    .logo img {
+        height: 185px;
+        width: 185px;
+    }
+    iframe#map-h {
+        height: 1000px;
+    }
+    input#nameContact {
+        font-size: 60px;
+    }
+    input#date {
+        font-size: 60px;
+    }
+    input#phone {
+        font-size: 60px;
+    }
+    input#email {
+        font-size: 60px;
+    }
+    input#pais {
+        font-size: 60px;
+    }
+    input#ciudad {
+        font-size: 60px;
+    }
+    input#asunto {
+        font-size: 60px;
+    }
+    textarea#mensaje {
+        font-size: 60px;
+    }
+    button#submitBtn {
+        font-size: 60px;
+    }
+    .g-recaptcha {
+        transform: scale(3);
+        transform-origin: 0 0;
+        width: 100px;
+    }
+    .captcha-space {
+        height: 170px;
+    }
+    label {
+        font-size: 60px;
+    }
+}
+
+@media (min-width: 3728px) and (max-width: 3999px) {
+    .endline {
+        display: none;
+    }
+    .end-name {
+        display: none;
+    }
+}
+
+@media (min-width: 4268px) and (max-width: 4368px) {
+    .endline {
+        display: none;
+    }
+    .end-name {
+        display: none;
+    }
+    #members h4 {
+        font-size: 70px;
+    }
+    label {
+        font-size: 50px;
+    }
+    .section-lessons h4 b {
+        font-size: 60px;
+    }
+    .section-lessons p {
+        font-size: 56px;
+    }
+}
+
+@media (min-width: 4106px) and (max-width: 4200px) {
+    .endline {
+        display: none;
+    }
+    .end-name {
+        display: none;
+    }
+}
+
+@media (min-width: 4000px) and (max-width: 4200px) {
+    #v-pc {
+        padding-top: 90px;
+    }
+    #members h4 {
+        font-size: 70px;
+    }
+    .social-circle li a {
+        width: 125px;
+        height: 125px;
+        font-size: 62px;
+    }
+    .social-circle li i {
+        line-height: 125px;
+    }
+    .heading b {
+        font-size: 130px;
+    }
+    .section-home p {
+        font-size: 43px;
+    }
+    .nav-menu-sections {
+        font-size: 50px;
+        margin: 40px 30px;
+    }
+    .section-about p,
+    h5,
+    h6,
+    h3 {
+        font-size: 75px;
+    }
+    .social-media ul {
+        font-size: 75px;
+    }
+    .section-teachers p {
+        font-size: 40px;
+    }
+    .space-item {
+        height: 980px;
+    }
+    #photos {
+        -moz-column-count: 5;
+        -webkit-column-count: 5;
+        column-count: 5;
+    }
+    .p-flex {
+        height: 350px;
+    }
+    .video-plays .video-list {
+        height: 780px;
+    }
+    #members ol {
+        font-size: 40px;
+    }
+    .section-about {
+        padding-bottom: 250px;
+    }
+    label {
+        font-size: 45px;
+    }
+    .section-lessons h4 b {
+        font-size: 60px;
+    }
+    .section-lessons p {
+        font-size: 56px;
+    }
+    .header {
+        height: 200px;
+    }
+    .logo img {
+        height: 185px;
+        width: 185px;
+    }
+    iframe#map-h {
+        height: 1000px;
+    }
+    input#nameContact {
+        font-size: 60px;
+    }
+    input#date {
+        font-size: 60px;
+    }
+    input#phone {
+        font-size: 60px;
+    }
+    input#email {
+        font-size: 60px;
+    }
+    input#pais {
+        font-size: 60px;
+    }
+    input#ciudad {
+        font-size: 60px;
+    }
+    input#asunto {
+        font-size: 60px;
+    }
+    textarea#mensaje {
+        font-size: 60px;
+    }
+    button#submitBtn {
+        font-size: 60px;
+    }
+    .g-recaptcha {
+        transform: scale(3);
+        transform-origin: 0 0;
+        width: 100px;
+    }
+    .captcha-space {
+        height: 170px;
+    }
+    label {
+        font-size: 60px;
+    }
+}
+
+@media (min-width: 3161px) and (max-width: 3300px) {
+    .header {
+        height: 180px;
+    }
+    .logo img {
+        height: 165px;
+        width: 165px;
+    }
+    iframe#map-h {
+        height: 800px;
+    }
+    input#nameContact {
+        font-size: 40px;
+    }
+    input#date {
+        font-size: 40px;
+    }
+    input#phone {
+        font-size: 40px;
+    }
+    input#email {
+        font-size: 40px;
+    }
+    input#pais {
+        font-size: 40px;
+    }
+    input#ciudad {
+        font-size: 40px;
+    }
+    input#asunto {
+        font-size: 40px;
+    }
+    textarea#mensaje {
+        font-size: 40px;
+    }
+    button#submitBtn {
+        font-size: 45px;
+    }
+    .g-recaptcha {
+        transform: scale(2.2);
+        transform-origin: 0 0;
+        width: 100px;
+    }
+    .captcha-space {
+        height: 150px;
+    }
+    label {
+        font-size: 40px;
+    }
+    #members h4 {
+        font-size: 50px;
+    }
+    .social-circle li a {
+        width: 85px;
+        height: 85px;
+        font-size: 40px;
+    }
+    .social-circle li i {
+        line-height: 85px;
+    }
+    .heading b {
+        font-size: 70px;
+    }
+    .section-home p {
+        font-size: 35px;
+    }
+    .nav-menu-sections {
+        font-size: 35px;
+    }
+    .endline {
+        display: none;
+    }
+    .end-name {
+        display: none;
+    }
+    .section-about p,
+    h5,
+    h6,
+    h3 {
+        font-size: 52px;
+    }
+    .section-teachers p {
+        font-size: 35px;
+    }
+    .space-item {
+        height: 790px;
+    }
+    #photos {
+        -moz-column-count: 5;
+        -webkit-column-count: 5;
+        column-count: 5;
+    }
+    .p-flex {
+        height: 350px;
+    }
+    .video-plays .video-list {
+        height: 780px;
+    }
+    #members ol {
+        font-size: 30px;
+    }
+    .section-about {
+        padding-bottom: 160px;
+    }
+    .section-lessons p {
+        font-size: 36px;
+    }
+    .section-lessons h4 b {
+        font-size: 40px;
+    }
+}
+
+@media (min-width: 3594px) and (max-width: 3700px) {
+    .heading b {
+        font-size: 80px;
+    }
+    .social-circle li a {
+        width: 105px;
+        height: 105px;
+        font-size: 50px;
+    }
+    .social-circle li i {
+        line-height: 105px;
+    }
+    .section-about {
+        padding-bottom: 185px;
+    }
+    .section-home p {
+        font-size: 42px;
+    }
+    .nav-menu-sections {
+        font-size: 38px;
+    }
+    .section-about p,
+    h5,
+    h6,
+    h3 {
+        font-size: 63px;
+    }
+    .section-teachers p {
+        font-size: 35px;
+    }
+    .space-item {
+        height: 860px;
+    }
+    .p-flex {
+        height: 360px;
+    }
+    #photos {
+        -moz-column-count: 5;
+        -webkit-column-count: 5;
+        column-count: 5;
+    }
+    #members ol {
+        font-size: 33px;
+    }
+    .endline {
+        display: none;
+    }
+    .end-name {
+        display: none;
+    }
+}
+
+@media (min-width: 3301px) and (max-width: 3593px) {
+    .social-circle li a {
+        width: 105px;
+        height: 105px;
+        font-size: 50px;
+    }
+    .social-circle li i {
+        line-height: 105px;
+    }
+    .section-home p {
+        font-size: 38px;
+    }
+    .nav-menu-sections {
+        font-size: 35px;
+    }
+    .end-name {
+        display: none;
+    }
+    .section-about p,
+    h5,
+    h6,
+    h3 {
+        font-size: 70px;
+    }
+    .section-teachers p {
+        font-size: 35px;
+    }
+    .space-item {
+        height: 790px;
+    }
+    #photos {
+        -moz-column-count: 5;
+        -webkit-column-count: 5;
+        column-count: 5;
+    }
+    .p-flex {
+        height: 350px;
+    }
+    .video-plays .video-list {
+        height: 780px;
+    }
+    #members ol {
+        font-size: 30px;
+    }
+}
+
+@media (min-width: 2861px) and (max-width: 3160px) {
+    .social-circle li a {
+        width: 95px;
+        height: 95px;
+        font-size: 45;
+    }
+    .social-circle li i {
+        line-height: 95px;
+    }
+    .section-home p {
+        font-size: 35px;
+    }
+    .nav-menu-sections {
+        font-size: 35px;
+    }
+    .endline {
+        display: none;
+    }
+    .end-name {
+        display: none;
+    }
+    .section-about p,
+    h5,
+    h6,
+    h3 {
+        font-size: 50px;
+    }
+    .section-teachers p {
+        font-size: 35px;
+    }
+    .space-item {
+        height: 700px;
+    }
+    #photos {
+        -moz-column-count: 5;
+        -webkit-column-count: 5;
+        column-count: 5;
+    }
+    .p-flex {
+        height: 350px;
+    }
+    .video-plays .video-list {
+        height: 780px;
+    }
+    #members ol {
+        font-size: 30px;
+    }
+}
+
+@media (min-width: 2561px) and (max-width: 2860px) {
+    .social-circle li a {
+        width: 93px;
+        height: 93px;
+        font-size: 42;
+    }
+    .social-circle li i {
+        line-height: 93px;
+    }
+    #members ol {
+        font-size: 35px;
+    }
+    .section-home p {
+        font-size: 35px;
+    }
+    .nav-menu-sections {
+        font-size: 35px;
+    }
+    .endline {
+        display: none;
+    }
+    .end-name {
+        display: none;
+    }
+    .section-about p,
+    h5,
+    h6,
+    h3 {
+        font-size: 42px;
+    }
+    .section-teachers p {
+        font-size: 35px;
+    }
+    .space-item {
+        height: 650px;
+    }
+    #photos {
+        -moz-column-count: 4;
+        -webkit-column-count: 4;
+        column-count: 4;
+    }
+    .p-flex {
+        height: 337px;
+    }
+}
+
+@media (min-width: 2215px) and (max-width: 2560px) {
+    .endline {
+        display: none;
+    }
+    .end-name {
+        display: none;
+    }
+}
+
+@media (min-width: 2201px) and (max-width: 2560px) {
+    iframe#map-h {
+        height: 700px;
+    }
+    input#nameContact {
+        font-size: 30px;
+    }
+    input#date {
+        font-size: 30px;
+    }
+    input#phone {
+        font-size: 30px;
+    }
+    input#email {
+        font-size: 30px;
+    }
+    input#pais {
+        font-size: 30px;
+    }
+    input#ciudad {
+        font-size: 30px;
+    }
+    input#asunto {
+        font-size: 30px;
+    }
+    textarea#mensaje {
+        font-size: 32px;
+    }
+    button#submitBtn {
+        font-size: 35px;
+    }
+    .g-recaptcha {
+        transform: scale(2);
+        transform-origin: 0 0;
+        width: 100px;
+    }
+    .captcha-space {
+        height: 120px;
+    }
+    label {
+        font-size: 30px;
+    }
+    .social-circle li a {
+        width: 80px;
+        height: 80px;
+        font-size: 33px;
+    }
+    .social-circle li i {
+        line-height: 80px;
+    }
+    #members ol {
+        font-size: 32px;
+    }
+    .section-home p {
+        font-size: 35px;
+    }
+    .nav-menu-sections {
+        font-size: 30px;
+    }
+
+    .section-about p,
+    h5,
+    h6,
+    h3 {
+        font-size: 40px;
+    }
+    .section-teachers p {
+        font-size: 25px;
+    }
+    .space-item {
+        height: 590px;
+    }
+    #photos {
+        -moz-column-count: 4;
+        -webkit-column-count: 4;
+        column-count: 4;
+    }
+    .section-lessons h4 b {
+        font-size: 40px;
+    }
+    .section-lessons p {
+        font-size: 30px;
+    }
+    #members h4 {
+        font-size: 50px;
+    }
+}
+
+@media (min-width: 1600px) and (max-width: 1920px) {
+    #members ol {
+        font-size: 23px;
+    }
+    .section-home p {
+        font-size: 20px;
+    }
+    .nav-menu-sections {
+        font-size: 22px;
+    }
+    .endline {
+        display: none;
+    }
+    .end-name {
+        display: none;
+    }
+    .section-about p,
+    h5,
+    h6,
+    h3 {
+        font-size: 25px;
+    }
+    .section-teachers p {
+        font-size: 21px;
+    }
+    .social-circle li a {
+        width: 50px;
+        height: 50px;
+        font-size: 28px;
+    }
+    .social-circle li i {
+        line-height: 50px;
+    }
+    .section-lessons h4 b {
+        font-size: 30px;
+    }
+    .section-lessons p {
+        font-size: 26px;
+    }
+}
+
+@media (min-width: 1921px) and (max-width: 2100px) {
+    .section-home p {
+        font-size: 30px;
+    }
+    .nav-menu-sections {
+        font-size: 30px;
+    }
+    .section-about p,
+    h5,
+    h6,
+    h3 {
+        font-size: 30px;
+    }
+    .section-teachers p {
+        font-size: 30px;
+    }
+    .heading {
+        font-size: 40px;
+    }
+    .endline {
+        display: none;
+    }
+    .end-name {
+        display: none;
+    }
+    .p-flex {
+        height: 310px;
+    }
+    .social-circle li a {
+        width: 50px;
+        height: 50px;
+        font-size: 28px;
+    }
+    .social-circle li i {
+        line-height: 50px;
+    }
+    .section-lessons h4 b {
+        font-size: 35px;
+    }
+    .section-lessons p {
+        font-size: 29px;
+    }
+}
+
+@media (min-width: 1024px) and (max-width: 1152px) {
+    .space-item {
+        height: 300px;
+    }
+    .nav-menu-sections {
+        font-size: 12px;
+    }
+}
+
+@media (min-width: 1134px) and (max-width: 1365px) {
+    .end-name {
+        display: none;
+    }
+    .endline {
+        display: none;
+    }
+}
+
+@media (min-width: 1024px) and (max-width: 1064px) {
+    .end-name {
+        display: none;
+    }
+}
+
+@media (min-width: 1366px) and (max-width: 1520px) {
+    .space-item {
+        height: 350px;
+    }
+    .endline {
+        display: none;
+    }
+    .end-name {
+        display: none;
+    }
+}
+
+@media (min-width: 1521px) and (max-width: 1599px) {
+    .endline {
+        display: none;
+    }
+    .end-name {
+        display: none;
+    }
+}
+
+@media (max-width: 960px) {
+    .imacbackground {
+        margin-bottom: 85px;
+    }
+    .menu-bar {
+        flex-direction: column;
+        align-items: center;
+        margin-right: 10;
+        background-color: #3e3e3e;
+        position: fixed;
+        left: 0%;
+        top: 114px;
+        width: 100%;
+        padding: 20px 0;
+        height: calc(100% - 120px);
+        overflow-y: auto;
+
+        left: 100%;
+        transition: left 0.3s;
+    }
+    .nav-menu-sections {
+        font-size: 18px;
+        margin: 0 8px;
+        line-height: 115px;
+        width: max-content;
+    }
+    .nav-link-hover:hover {
+        background: none;
+        color: yellow;
+    }
+    .navButton-toggle {
+        display: block;
+    }
+    .menu-bar_visible {
+        left: 0;
+    }
+}
+
+@media (min-width: 640px) and (max-width: 880px) {
+    .section-home p {
+        font-size: 20px;
+    }
+}
+
+@media (min-width: 1600px) and (max-width: 1810px) {
+    .space-item {
+        height: 420px;
+    }
+}
+
+@media (min-width: 1811px) and (max-width: 2024px) {
+    .space-item {
+        height: 470px;
+    }
+}
+
+@media (min-width: 2025px) and (max-width: 2200px) {
+    .space-item {
+        height: 520px;
+    }
+    .section-home p {
+        font-size: 30px;
+    }
+    .nav-menu-sections {
+        font-size: 25px;
+    }
+    .section-about p,
+    h5,
+    h6,
+    h3 {
+        font-size: 30px;
+    }
+    .section-teachers p {
+        font-size: 25px;
+    }
+    .endline {
+        display: none;
+    }
+    .end-name {
+        display: none;
+    }
+    #photos {
+        -moz-column-count: 4;
+        -webkit-column-count: 4;
+        column-count: 4;
+    }
+    iframe#map-h {
+        height: 700px;
+    }
+    input#nameContact {
+        font-size: 25px;
+    }
+    input#date {
+        font-size: 25px;
+    }
+    input#phone {
+        font-size: 25px;
+    }
+    input#email {
+        font-size: 25px;
+    }
+    input#pais {
+        font-size: 25px;
+    }
+    input#ciudad {
+        font-size: 25px;
+    }
+    input#asunto {
+        font-size: 25px;
+    }
+    textarea#mensaje {
+        font-size: 22px;
+    }
+    button#submitBtn {
+        font-size: 25px;
+    }
+    .g-recaptcha {
+        transform: scale(1.5);
+        transform-origin: 0 0;
+        width: 110px;
+    }
+    .captcha-space {
+        height: 100px;
+    }
+    label {
+        font-size: 25px;
+    }
+    .social-circle li a {
+        width: 50px;
+        height: 50px;
+        font-size: 28px;
+    }
+    .social-circle li i {
+        line-height: 50px;
+    }
+    .section-lessons h4 b {
+        font-size: 30px;
+    }
+    .section-lessons p {
+        font-size: 26px;
+    }
+}
+
+@media (max-width: 1023px) {
+    .space-item {
+        height: 700px;
+    }
+    .section-home p {
+        font-size: 18px;
+    }
+    .nav-menu-sections {
+        font-size: 11px;
+    }
+    .imacbackground {
+        margin-bottom: 170px;
+    }
+    .video-plays {
+        grid-template-columns: 1.5fr 1fr;
+        padding: 10px;
+    }
+    .space-item {
+        height: 270px;
+    }
+    .end-name {
+        display: none;
+    }
+    .endline {
+        display: none;
+    }
+}
+
+@media (max-width: 991px) {
+    #v-pc {
+        padding-top: 10px;
+    }
+    .space-item {
+        height: 700px;
+    }
+    .section-home p {
+        font-size: 30px;
+    }
+    .nav-menu-sections {
+        font-size: 11px;
+    }
+    .imacbackground {
+        margin-bottom: 170px;
+    }
+    .img-bckgrnd {
+        background: url("../img/sectionBackground/container_photo.jpg")
+            no-repeat;
+        -webkit-background: url("../img/sectionBackground/container_photo.jpg")
+            no-repeat;
+        background-size: cover;
+        -webkit-background-size: cover;
+        background-position: center;
+        height: 700px;
+    }
+    .section-home {
+        background: url("../img/sectionBackground/desktop_background0.jpg") no-repeat fixed;
+        -webkit-background: url("../img/sectionBackground/desktop_background0.jpg")
+            no-repeat fixed;
+        background-position: center;
+    }
+    .video-plays {
+        grid-template-columns: 1.5fr 1fr;
+        padding: 10px;
+    }
+    .locationContainer {
+        display: block;
+    }
+}
+
+@media (max-width: 758px) {
+    .locationContainer {
+        display: block;
+    }
+    .video-plays {
+        grid-template-columns: 1fr;
+    }
+    .space-item {
+        height: 560px;
+    }
+    .video-plays .video-list {
+        height: 525px;
+    }
+}
+
+@media (min-width: 641px) and (max-width: 720px) {
+    .img-bckgrnd {
+        height: 400px;
+    }
+    .space-item {
+        height: 520px;
+    }
+    .video-plays .video-list {
+        height: 350px;
+    }
+    .endline {
+        display: none;
+    }
+    .end-name {
+        display: none;
+    }
+}
+
+@media (min-width: 580px) and (max-width: 640px) {
+    .img-bckgrnd {
+        height: 610px;
+    }
+    .img-bckgrnd {
+        height: 400px;
+    }
+    .space-item {
+        height: 450px;
+    }
+    .video-plays .video-list {
+        height: 350px;
+    }
+    .endline {
+        display: none;
+    }
+    .end-name {
+        display: none;
+    }
+}
+
+@media (max-width: 450px) {
+    .img-bckgrnd {
+        height: 550px;
+    }
+    .imacbackground {
+        margin-bottom: 135px;
+    }
+    .video-plays .video-list {
+        height: 350px;
+    }
+    .social-circle li a {
+        width: 40px;
+        height: 40px;
+        font-size: 18px;
+    }
+    .social-circle li i {
+        line-height: 40px;
+    }
+    .section-contact .footer-font-color h5 {
+        font-size: 18px;
+    }
+    .space-item {
+        height: 350px;
+    }
+    .section-home p {
+        font-size: 20px;
+    }
+    .endline {
+        display: none;
+    }
+    .end-name {
+        display: none;
+    }
+}
+
+@media (min-width: 451px) and (max-width: 579px) {
+    .img-bckgrnd {
+        height: 550px;
+    }
+    .imacbackground {
+        margin-bottom: 142px;
+    }
+    .video-plays .video-list {
+        height: 350px;
+    }
+    .social-circle li a {
+        width: 40px;
+        height: 40px;
+        font-size: 20px;
+    }
+    .social-circle li i {
+        line-height: 40px;
+    }
+    .section-contact .footer-font-color h5 {
+        font-size: 18px;
+    }
+    .space-item {
+        height: 400px;
+    }
+    .section-home p {
+        font-size: 20px;
+    }
+}
+
+@media (min-width: 1480px) and (max-width: 1680px) {
+    #photos {
+        -moz-column-count: 4;
+        -webkit-column-count: 4;
+        column-count: 4;
+    }
+}
+
+@media (max-width: 1000px) {
+    #photos {
+        -moz-column-count: 3;
+        -webkit-column-count: 3;
+        column-count: 3;
+    }
+}
+
+@media (max-width: 800px) {
+    #photos {
+        -moz-column-count: 2;
+        -webkit-column-count: 2;
+        column-count: 2;
+    }
+}
+
+@media (max-width: 639px) {
+    .section-home {
+        background: url("../img/sectionBackground/movil_background1.jpg")
+            no-repeat fixed;
+        -webkit-background: url("../img/sectionBackground/movil_background1.jpg")
+            no-repeat fixed;
+        background-size: cover;
+        -webkit-background-size: cover;
+        background-position: center;
+    }
+    .section-about {
+        background: url("../img/sectionBackground/movil_background2.jpg")
+            no-repeat fixed;
+        -webkit-background: url("../img/sectionBackground/movil_background2.jpg")
+            no-repeat fixed;
+        background-size: cover;
+        -webkit-background-size: cover;
+        background-position: center;
+    }
+    .section-teachers {
+        background: url("../img/sectionBackground/movil_background3.jpg")
+            no-repeat fixed;
+        -webkit-background: url("../img/sectionBackground/movil_background3.jpg")
+        no-repeat fixed;
+        background-size: cover;
+        -webkit-background-size: cover;
+        background-position: center;
+    }
+    .section-offers {
+        background: url("../img/sectionBackground/movil_background4.jpg")
+            no-repeat fixed;
+        -webkit-background: url("../img/sectionBackground/movil_background4.jpg")
+            no-repeat fixed;
+        background-size: cover;
+        -webkit-background-size: cover;
+        background-position: center;
+    }
+    .section-comments {
+        background: url("../img/sectionBackground/movil_background5.jpg")
+            no-repeat fixed;
+        -webkit-background: url("../img/sectionBackground/movil_background5.jpg")
+            no-repeat fixed;
+        background-size: cover;
+        -webkit-background-size: cover;
+        background-position: center;
+    }
+    .section-lessons {
+        background: url("../img/sectionBackground/movil_background6.jpg")
+            no-repeat fixed;
+        -webkit-background: url("../img/sectionBackground/movil_background6.jpg")
+            no-repeat fixed;
+        background-size: cover;
+        -webkit-background-size: cover;
+        background-position: center;
+    }
+}
+
+@media (min-width: 1521px) and (max-width: 1599px) {
+    .space-item {
+        height: 380px;
+    }
+}
+
+@media (min-width: 700px) and (max-width: 900px) {
+    .section-teachers p {
+        font-size: 27px;
+    }
+    .section-about p,
+    h5,
+    h6,
+    h3 {
+        font-size: 30px;
+    }
+    #members ol {
+        font-size: 30px;
+    }
+    .heading b {
+        font-size: 50px;
+    }
+}
