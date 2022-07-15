@@ -481,7 +481,7 @@
                 </div>
                 <div class="team-box">
                     <div class="cform" id="contact-form">
-                        <form action="https://formsubmit.co/lmm300997@gmail.com" method="post" role="form" class="contactForm">
+                        <form action="https://formsubmit.co/fremdspracheinstitut@gmail.com" method="post" role="form" class="contactForm">
                             <div class="form-group">
                                 <div><br></div>
                                 <label for="date">Elegir Fecha: <b style="color: red;">*</b></label>
