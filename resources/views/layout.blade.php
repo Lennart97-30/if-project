@@ -10,11 +10,11 @@
     <link rel="icon" href="assets/img/logos/logo-icon.png">
     <!-- Styles -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-    <link rel="stylesheet" href="assets/css/app.css?v=08.07.22a">
-    <link rel="stylesheet" href="assets/css/style.css?v=08.07.22b">
+    <link rel="stylesheet" href="assets/css/app.css?v=20.07.22a">
+    <link rel="stylesheet" href="assets/css/style.css?v=20.07.22b">
     <!-- Scripts -->
     <script defer src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
-    <script defer src="assets/js/index.js?v=08.07.22c"></script>
+    <script defer src="assets/js/index.js?v=20.07.22c"></script>
     <script defer src="https://kit.fontawesome.com/757436a7d6.js" crossorigin="anonymous"></script>
     <script defer src="https://www.google.com/recaptcha/api.js" async defer></script>
 </head>

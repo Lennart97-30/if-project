@@ -1209,20 +1209,18 @@
         margin-bottom: 170px;
     }
     .img-bckgrnd {
-        background: url("../img/sectionBackground/container_photo.jpg")
-            no-repeat;
-        -webkit-background: url("../img/sectionBackground/container_photo.jpg")
-            no-repeat;
+        /*picture teacher Karen*/
+        background-image: url("../img/sectionBackground/container_photo.jpg");
+        background-repeat: no-repeat;
         background-size: cover;
         -webkit-background-size: cover;
         background-position: center;
         height: 700px;
     }
     .section-home {
-        background: url("../img/sectionBackground/desktop_background0.jpg") no-repeat fixed;
-        -webkit-background: url("../img/sectionBackground/desktop_background0.jpg")
-            no-repeat fixed;
-        background-position: center;
+        background-image: url("../img/sectionBackground/desktop_background0.jpg");
+        background-attachment: fixed;
+        -webkit-background-attachment: fixed;
     }
     .video-plays {
         grid-template-columns: 1.5fr 1fr;
@@ -1375,60 +1373,26 @@
     }
 }
 
-@media (max-width: 639px) {
+@media only screen and (max-width: 639px) {
     .section-home {
-        background: url("../img/sectionBackground/movil_background1.jpg")
-            no-repeat fixed;
-        -webkit-background: url("../img/sectionBackground/movil_background1.jpg")
-            no-repeat fixed;
-        background-size: cover;
-        -webkit-background-size: cover;
-        background-position: center;
+        background-image: url("../img/sectionBackground/movil_background1.jpg");
+        background-attachment: fixed;
+        -webkit-background-attachment: fixed;
     }
     .section-about {
-        background: url("../img/sectionBackground/movil_background2.jpg")
-            no-repeat fixed;
-        -webkit-background: url("../img/sectionBackground/movil_background2.jpg")
-            no-repeat fixed;
-        background-size: cover;
-        -webkit-background-size: cover;
-        background-position: center;
+        background-image: url("../img/sectionBackground/movil_background2.jpg");
     }
     .section-teachers {
-        background: url("../img/sectionBackground/movil_background3.jpg")
-            no-repeat fixed;
-        -webkit-background: url("../img/sectionBackground/movil_background3.jpg")
-        no-repeat fixed;
-        background-size: cover;
-        -webkit-background-size: cover;
-        background-position: center;
+        background-image: url("../img/sectionBackground/movil_background3.jpg");
     }
     .section-offers {
-        background: url("../img/sectionBackground/movil_background4.jpg")
-            no-repeat fixed;
-        -webkit-background: url("../img/sectionBackground/movil_background4.jpg")
-            no-repeat fixed;
-        background-size: cover;
-        -webkit-background-size: cover;
-        background-position: center;
+        background-image: url("../img/sectionBackground/movil_background4.jpg");
     }
     .section-comments {
-        background: url("../img/sectionBackground/movil_background5.jpg")
-            no-repeat fixed;
-        -webkit-background: url("../img/sectionBackground/movil_background5.jpg")
-            no-repeat fixed;
-        background-size: cover;
-        -webkit-background-size: cover;
-        background-position: center;
+        background-image: url("../img/sectionBackground/movil_background5.jpg");
     }
     .section-lessons {
-        background: url("../img/sectionBackground/movil_background6.jpg")
-            no-repeat fixed;
-        -webkit-background: url("../img/sectionBackground/movil_background6.jpg")
-            no-repeat fixed;
-        background-size: cover;
-        -webkit-background-size: cover;
-        background-position: center;
+        background-image: url("../img/sectionBackground/movil_background6.jpg");
     }
 }
 
@@ -1453,5 +1417,11 @@
     }
     .heading b {
         font-size: 50px;
+    }
+}
+
+@media (min-width: 758px) and (max-width: 815px) {
+    h3.title-video {
+        font-size: 25px;
     }
 }

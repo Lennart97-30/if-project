@@ -37,6 +37,106 @@ a {
 }
 /*Tags*/
 
+/*Sections*/
+.section-home {
+    background-image: url("../img/sectionBackground/desktop_background1.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.section-home p {
+    text-align: center;
+}
+.section-about {
+    background-image: url("../img/sectionBackground/desktop_background2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    -webkit-background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    -webkit-background-attachment: fixed;
+    padding-bottom: 40px;
+}
+.section-about p,
+h5,
+h6,
+h3 {
+    text-align: center;
+}
+.section-teachers {
+    background-image: url("../img/sectionBackground/desktop_background3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    -webkit-background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    -webkit-background-attachment: fixed;
+    padding-bottom: 50px;
+}
+.section-teachers p,
+h5,
+h5 {
+    text-align: center;
+}
+.section-offers {
+    background-image: url("../img/sectionBackground/desktop_background4.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    -webkit-background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    -webkit-background-attachment: fixed;
+    padding-bottom: 50px;
+}
+.section-offers article {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    cursor: pointer;
+}
+.section-offers article img {
+    width: 100%;
+}
+.section-offers article .layer-img {
+    position: absolute;
+    top: 0%;
+    width: 100%;
+    height: 100%;
+    background: #181cf58c;
+    transition: all 0.5s ease-out;
+    opacity: 0;
+    visibility: hidden;
+    text-align: center;
+}
+.section-offers article:hover > .layer-img {
+    opacity: 1;
+    visibility: visible;
+}
+.section-comments {
+    background-image: url("../img/sectionBackground/desktop_background5.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    -webkit-background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    -webkit-background-attachment: fixed;
+    padding-bottom: 50px;
+}
+.section-lessons {
+    background-image: url("../img/sectionBackground/desktop_background6.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    -webkit-background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    -webkit-background-attachment: fixed;
+    padding-bottom: 50px;
+}
+.section-lessons h4 {
+    text-align: center;
+}
+/*Sections*/
+
 /*Logo Img*/
 .logo img {
     height: 100px;
@@ -112,96 +212,6 @@ a {
     color: yellow;
 }
 /*Navbar*/
-
-/*Sections*/
-.section-home {
-    background: url("../img/sectionBackground/desktop_background1.jpg")
-        no-repeat;
-    background-size: cover;
-    -webkit-background-size: cover;
-    background-position: center;
-    padding-bottom: 80px;
-}
-.section-home p {
-    text-align: center;
-}
-.section-about {
-    background: url("../img/sectionBackground/desktop_background2.jpg")
-        no-repeat fixed;
-    background-size: cover;
-    -webkit-background-size: cover;
-    background-position: center;
-    padding-bottom: 50px;
-}
-.section-about p,
-h5,
-h6,
-h3 {
-    text-align: center;
-}
-.section-teachers {
-    background: url("../img/sectionBackground/desktop_background3.jpg")
-        no-repeat fixed;
-    background-size: cover;
-    background-position: center;
-    padding-bottom: 50px;
-}
-.section-teachers p,
-h5,
-h5 {
-    text-align: center;
-}
-.section-offers {
-    background: url("../img/sectionBackground/desktop_background4.jpg")
-        no-repeat fixed;
-    background-size: cover;
-    -webkit-background-size: cover;
-    background-position: center;
-    padding-bottom: 50px;
-}
-.section-offers article {
-    position: relative;
-    width: 100%;
-    overflow: hidden;
-    cursor: pointer;
-}
-.section-offers article img {
-    width: 100%;
-}
-.section-offers article .layer-img {
-    position: absolute;
-    top: 0%;
-    width: 100%;
-    height: 100%;
-    background: #181cf58c;
-    transition: all 0.5s ease-out;
-    opacity: 0;
-    visibility: hidden;
-    text-align: center;
-}
-.section-offers article:hover > .layer-img {
-    opacity: 1;
-    visibility: visible;
-}
-.section-comments {
-    background: url("../img/sectionBackground/desktop_background5.jpg")
-        no-repeat fixed;
-    background-size: cover;
-    background-position: center;
-    padding-bottom: 50px;
-}
-.section-lessons {
-    background: url("../img/sectionBackground/desktop_background6.jpg")
-        no-repeat fixed;
-    background-position: center;
-    background-size: cover;
-    -webkit-background-size: cover;
-    padding-bottom: 50px;
-}
-.section-lessons h4 {
-    text-align: center;
-}
-/*Sections*/
 
 /*Margin videos*/
 .imacbackground {
